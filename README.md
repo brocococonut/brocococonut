@@ -1,7 +1,10 @@
 # 💫About Me :
 A gay aussie in his twenties. Advocate for human rights. Enjoyer of chicken parmas.
+
 🔭 Currently exploring creative ways to design efficient systems in Go and TypeScript.
+
 🌱 Learning more about data structures, byte alignment, and enhancing multi-language development skills.
+
 🛠️ Passionate about clean, minimalistic code and well-documented projects. (still learning and growing with that one haha)
 
 ⚡ <ins>Fun Fact:</ins> I'm a gamer and I enjoy reverse engineering how things work - reporting bugs if I find any along the way.
@@ -18,9 +21,6 @@ A gay aussie in his twenties. Advocate for human rights. Enjoyer of chicken parm
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=brocococonut&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brocococonut&icon=0&color=11)](https://visitcount.itsvg.in)
